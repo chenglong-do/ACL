@@ -1,5 +1,5 @@
 # 内容：Private
-# 数量：16条
+# 数量：17条
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kodinerds.net
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,by.ltd
 DOMAIN-SUFFIX,manuals.plus
 DOMAIN-SUFFIX,zeromq.org
+DOMAIN-SUFFIX,curseforge.com
