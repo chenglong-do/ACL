@@ -1,5 +1,5 @@
 # 内容：Private
-# 数量：32条
+# 数量：39条
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kodinerds.net
@@ -32,3 +32,10 @@ DOMAIN-SUFFIX,discover.provider.plex.tv
 DOMAIN-SUFFIX,mp.plex.tv
 DOMAIN-SUFFIX,ump.plex.tv
 DOMAIN-SUFFIX,mpm.plex.tv
+DOMAIN-SUFFIX,mbz.plex.tv
+DOMAIN-SUFFIX,acoustid.plex.tv
+DOMAIN-SUFFIX,me.plexapp.com
+DOMAIN-SUFFIX,lyricfind.plex.tv
+DOMAIN-SUFFIX,songkick.plex.tv
+DOMAIN-SUFFIX,notifications.plex.tv
+DOMAIN-SUFFIX,downloads.plex.tv
