@@ -1,5 +1,5 @@
 # 内容：Private
-# 数量：39条
+# 数量：38条
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kodinerds.net
@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,manuals.plus
 DOMAIN-SUFFIX,zeromq.org
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,flyingbird.cc
-DOMAIN-SUFFIX,fbsublink.com
 DOMAIN-SUFFIX,clients.plex.tv
 DOMAIN-SUFFIX,metadata.provider.plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
