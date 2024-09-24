@@ -1,11 +1,8 @@
 # 内容：Private
-# 数量：38条
-DOMAIN-SUFFIX,docker.com
+# 数量：35条
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kodinerds.net
 DOMAIN-SUFFIX,synocommunity.com
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,deeplearning.ai
 DOMAIN-SUFFIX,conan.io
 DOMAIN-SUFFIX,openssl.org
