@@ -7,7 +7,6 @@ external-controller: 0.0.0.0:9090
 redir-port: 7892
 tproxy-port: 7895
 mixed-port: 7893
-secret: zb3NDQMZ
 bind-address: "*"
 external-ui: "/usr/share/openclash/ui"
 ipv6: false
@@ -40,8 +39,6 @@ sniffer:
   parse-pure-ip: true
 profile:
   store-selected: true
-authentication:
-- Clash:2OECmB7u
 skip-auth-prefixes:
 - 127.0.0.1/8
 - "::1/128"
