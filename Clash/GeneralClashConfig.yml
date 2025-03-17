@@ -15,6 +15,7 @@ dns:
   default-nameserver:
   - 223.5.5.5
   - 119.29.29.29
+  - 114.114.114.114
   - 8.8.8.8
   use-hosts: true
   nameserver:
@@ -24,7 +25,9 @@ dns:
   - https://doh.dns.sb/dns-query
   - https://dns.cloudflare.com/dns-query
   - https://dns.twnic.tw/dns-query
+  - https://dns.hinet.net/dns-query
   - tls://8.8.4.4:853
+  - https://dns.alidns.com/dns-query
   fallback-filter:
     geoip: true
     ipcidr:
