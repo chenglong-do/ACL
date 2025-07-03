@@ -37,5 +37,5 @@ DOMAIN-SUFFIX,notifications.plex.tv
 DOMAIN-SUFFIX,downloads.plex.tv
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,px4.io
-DOMAIN-SUFFIX,autodesk.com
-DOMAIN-SUFFIX,autodesk360.com
+# DOMAIN-SUFFIX,autodesk.com
+# DOMAIN-SUFFIX,autodesk360.com
