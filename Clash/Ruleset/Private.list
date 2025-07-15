@@ -1,5 +1,5 @@
 # 内容：Private
-# 数量：40 条
+# 数量：39 条
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kodinerds.net
 DOMAIN-SUFFIX,synocommunity.com
@@ -38,5 +38,6 @@ DOMAIN-SUFFIX,downloads.plex.tv
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,px4.io
 DOMAIN-SUFFIX,mavlink.io
+DOMAIN-SUFFIX,holybro.com
 # DOMAIN-SUFFIX,autodesk.com
 # DOMAIN-SUFFIX,autodesk360.com
